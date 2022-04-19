@@ -1,5 +1,3 @@
-es (14 sloc)  422 Bytes
-   
 #!/usr/bin/python3
 """
 app_views; Blueprint instance
